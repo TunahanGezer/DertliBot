@@ -1,7 +1,3 @@
-Sure, here's a README for your Telegram bot code:
-
----
-
 # Telegram Bot - Financial Data and Polling
 
 This Telegram bot is designed to provide users with financial data and polling functionality. It retrieves real-time cryptocurrency and currency exchange rates and sends them to users upon request. Additionally, it supports interactive polling within Telegram groups.
