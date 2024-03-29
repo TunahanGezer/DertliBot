@@ -37,7 +37,8 @@ This Telegram bot is designed to provide users with financial data and polling f
 ## Screenshots
 ![Ekran görüntüsü 2024-03-29 163644](https://github.com/TunahanGezer/Discord_Bot/assets/128300182/f3bb9a51-1441-4c99-84e8-41b3f90e5acc)
 
-![Ekran görüntüsü 2024-03-29 162025](https://github.com/TunahanGezer/Discord_Bot/assets/128300182/55c60f27-441d-44a6-a316-ecb61a952c79)
+
+![Ekran görüntüsü 2024-03-29 164238](https://github.com/TunahanGezer/Discord_Bot/assets/128300182/16bc0967-9e35-44b7-aa7a-cd5c813b3e12)
 
 
 
